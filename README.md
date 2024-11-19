@@ -1,1 +1,1 @@
-# amazon-clone
+# A Amazon Clone from React+Vite

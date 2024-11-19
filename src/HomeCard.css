@@ -1,0 +1,35 @@
+.home-card{
+    display: flex;
+    justify-content: start;
+    flex-wrap: wrap;
+    flex-direction: column;
+    /* max-width: 350px; */
+    width: 23%;
+    border: 1px solid orange;
+    padding: 16px;
+    padding-top: 26px;
+    gap: 8px;
+    background-color: white;
+    /* margin: 20px auto; */
+}
+.home-card-title{
+    font-size: 21px;
+    font-weight: 700;
+}
+.home-card-item-container{
+    display: flex;
+    width: 100%;
+    justify-content: start;
+    flex-wrap: wrap;
+    /* border: 2px solid black; */
+    background-color: white;
+    padding: 14px auto;
+    gap: 8px;
+}
+.home-card-item{
+    width: 48%;
+    /* height: 130px; */
+}
+.home-card-item-img img{
+    width: 100%;
+}
